@@ -10,6 +10,6 @@ Write-ups of systems I've built and run on an internal platform used by 200+ peo
 | [Contractor timesheets with real-time Snowflake sync](contractor-timesheets.md) | Replaced a weekly batch with real-time sync to Snowflake and Certinia, built with two colleagues | Live |
 | [A document assistant on Bedrock](document-assistant.md) | Retrieval-augmented answers over internal documents, in the web app and Microsoft Teams | Pilot |
 | [An AI agent team with human approval](ai-agent-team.md) | AI plans and drafts code changes. A person approves the plan and merges the result. | In development |
-| [Platform foundations](platform-foundations.md) | Self-service apps, observability, credential vault, shared packages, the move to Amazon EKS and a CloudWatch cost finding | Live |
+| [Platform foundations](platform-foundations.md) | Self-service apps, observability, uptime monitoring, credential vault, shared packages, the move to Amazon EKS and a CloudWatch cost finding | Live |
 
 Each write-up links to an interactive diagram of the system. The full portfolio is at [shareefsyeds.github.io](https://shareefsyeds.github.io).

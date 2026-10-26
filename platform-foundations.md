@@ -25,6 +25,10 @@ Eight apps that let staff run routine operations themselves. Every action is aud
 
 Agent-based ingest, metrics, a log explorer, alert channels and runbook execution, with access set per project.
 
+## Uptime monitoring
+
+Self-hosted uptime and health-check monitoring for the platform's services, set up on an open-source monitor, with alerts to Microsoft Teams.
+
 ## Credential vault
 
 Secrets with KMS envelope encryption, secret rotation, offline access, audit connectors and LDAP and Azure AD directory sync.

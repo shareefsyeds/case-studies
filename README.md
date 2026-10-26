@@ -12,4 +12,4 @@ Write-ups of systems I've built and run on an internal platform used by 200+ peo
 | [An AI agent team with human approval](ai-agent-team.md) | AI plans and drafts code changes. A person approves the plan and merges the result. | In development |
 | [Platform foundations](platform-foundations.md) | Self-service apps, observability, credential vault, shared packages, the move to Amazon EKS and a CloudWatch cost finding | Live |
 
-The full portfolio is at [shareefsyeds.github.io](https://shareefsyeds.github.io).
+Each write-up links to an interactive diagram of the system. The full portfolio is at [shareefsyeds.github.io](https://shareefsyeds.github.io).

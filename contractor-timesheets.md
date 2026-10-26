@@ -2,6 +2,8 @@
 
 **Status:** live · **Role:** built with two colleagues · **Setting:** warehouse contractors in the UK and Austria, about 30 users
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/timesheets.html). You can click each part, zoom and switch between light and dark.
+
 ## Context
 
 Warehouse contractor hours reached finance through a weekly batch job, so the data was up to a week old, and the batch had stopped running.

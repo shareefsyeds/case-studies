@@ -2,6 +2,8 @@
 
 **Status:** in development · **Role:** designing and building · **Setting:** internal platform at a clinical-trial technology company
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/agents.html). You can click each part, zoom and switch between light and dark.
+
 ## Context
 
 AI can draft small, well-described code changes. Letting an agent merge its own code is not acceptable, so a person approves every plan and every merge.

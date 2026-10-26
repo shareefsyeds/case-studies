@@ -2,6 +2,8 @@
 
 **Status:** pilot · **Role:** designed and built · **Setting:** internal platform at a clinical-trial technology company, pilot with selected users
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/rag.html). You can click each part, zoom and switch between light and dark.
+
 ## Context
 
 The goal was to make internal documents answerable in plain language, inside the tools people already use.

@@ -2,6 +2,8 @@
 
 **Status:** live · **Role:** designed and built · **Setting:** internal platform at a clinical-trial technology company, 200+ users
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/workflow.html). You can click each part, zoom and switch between light and dark.
+
 ## Context
 
 Finance, supply chain, clinical-operations and IT teams kept asking for the same kind of job: pull data from one system, check it, get someone to approve it, and send the result somewhere else. Each one used to be a script.

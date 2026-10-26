@@ -2,6 +2,8 @@
 
 **Status:** in use · **Role:** designed and built · **Setting:** internal platform at a clinical-trial technology company, 200+ users
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/template.html). You can click each part, zoom and switch between light and dark.
+
 ## Context
 
 Every new internal app needed the same things: Entra ID sign-in, roles, an audit log, integrations with business systems and a deployment. Rebuilding them for each app would repeat the same work and leave each app with its own version of the basics.

@@ -2,6 +2,8 @@
 
 **Status:** live · **Role:** designed and built · **Setting:** internal platform at a clinical-trial technology company, 200+ users
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/mcp.html). You can click each part, zoom and switch between light and dark.
+
 ## Context
 
 The platform is a set of about 16 API apps behind one sign-in: workflows, access requests, operations tools for clinical-trial environments, a parameter store and an AI assistant. People wanted to use these from AI assistants and from the terminal, not only from the web UI.

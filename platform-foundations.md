@@ -2,6 +2,8 @@
 
 **Status:** live · **Role:** designed and built · **Setting:** internal platform at a clinical-trial technology company, 200+ users
 
+**Interactive diagram:** [open it on the portfolio site](https://shareefsyeds.github.io/diagrams/platform.html). You can click each part, zoom and switch between light and dark.
+
 The projects in the other write-ups sit on a platform that also does a lot of everyday work. This page covers that work in brief.
 
 ## Self-service apps
